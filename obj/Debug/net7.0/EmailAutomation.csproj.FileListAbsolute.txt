@@ -1,0 +1,15 @@
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.csproj.AssemblyReference.cache
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.AssemblyInfoInputs.cache
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.AssemblyInfo.cs
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.csproj.CoreCompileInputs.cache
+F:\work\EmailAutomation\bin\Debug\net7.0\EmailAutomation.exe
+F:\work\EmailAutomation\bin\Debug\net7.0\EmailAutomation.deps.json
+F:\work\EmailAutomation\bin\Debug\net7.0\EmailAutomation.runtimeconfig.json
+F:\work\EmailAutomation\bin\Debug\net7.0\EmailAutomation.dll
+F:\work\EmailAutomation\bin\Debug\net7.0\EmailAutomation.pdb
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.dll
+F:\work\EmailAutomation\obj\Debug\net7.0\refint\EmailAutomation.dll
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.pdb
+F:\work\EmailAutomation\obj\Debug\net7.0\EmailAutomation.genruntimeconfig.cache
+F:\work\EmailAutomation\obj\Debug\net7.0\ref\EmailAutomation.dll
